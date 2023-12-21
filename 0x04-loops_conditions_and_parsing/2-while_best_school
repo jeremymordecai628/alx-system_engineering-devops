@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-Display "Best school" 10 time using while loop.
+#Display "Best school" 10 time using while loop.
 
 count=0
 
